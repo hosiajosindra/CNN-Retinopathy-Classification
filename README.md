@@ -61,7 +61,7 @@ Mrs. Devvi Sarwinda, S.Si., M.Kom.
 
 ## Contributing CNN Retinopathy of Prematurity Group Members
 
-**Team Leads (Contacts) : [Full Name](https://github.com/[github handle])(@slackHandle)**
+**Team Leads : [Hosia Josindra Saragih](https://github.com/hosiajosindra)
 
 #### Other Members:
 
@@ -69,8 +69,3 @@ Mrs. Devvi Sarwinda, S.Si., M.Kom.
 |---------|-----------------|
 |[Full Name](https://github.com/[github handle])| @johnDoe        |
 |[Full Name](https://github.com/[github handle]) |     @janeDoe    |
-
-## Contact
-* If you haven't joined the SF Brigade Slack, [you can do that here](http://c4sf.me/slack).  
-* Our slack channel is `#datasci-projectname`
-* Feel free to contact team leads with any questions or if you are interested in contributing!
