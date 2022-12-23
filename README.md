@@ -28,12 +28,17 @@ Mrs. Devvi Sarwinda, S.Si., M.Kom.
 * TensorFlow
 
 ### Project Description
-* 
-(Provide more detailed overview of the project.  Talk a bit about your data sources and what questions and hypothesis you are exploring. What specific data analysis/visualization and modelling work are you using to solve the problem? What blockers and challenges are you facing?  Feel free to number or bullet point things here)
+* Data taken from kaggle site [here](https://www.kaggle.com/code/solennollivier/rop-2classclassification/data?select=NewROPDataset_Sample_justtotry).
+* Data augmentation for multiplying the amount of data to be used.
+* Labeling image data according the class (ROP or Non ROP).
+* Data preparation such as changing images to arrays, resizing, and normalizing.
+* Dividing data into train, test, and validation data.
+* Utilizing VGG19's Architecture in making CNN classification models.
+* Train models and provide evaluation reports.
 
 ### Needs of this project
 - Data Augmentation
-- Data Processing/Cleaning
+- Data Processing
 - Deep Learning Modeling
 - Evaluation and Reporting
 
