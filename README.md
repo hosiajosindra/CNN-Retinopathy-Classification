@@ -39,11 +39,11 @@ Mrs. Devvi Sarwinda, S.Si., M.Kom.
 
 ### Getting Started
 1. You can access the raw data [here](https://www.kaggle.com/code/solennollivier/rop-2classclassification/data?select=NewROPDataset_Sample_justtotry) within this kaggle site.
-2. All of the scripts are being kept [here](https://github.com/hosiajosindra/CNN-Retinopathy-Classification/blob/0f8df6b24d45c3bc72c46547ee4c5d48aa97ab0d/retino(augmented).ipynb)
+2. All of the scripts are being kept [here](https://github.com/hosiajosindra/CNN-Retinopathy-Classification/blob/0f8df6b24d45c3bc72c46547ee4c5d48aa97ab0d/retino(augmented).ipynb).
 
 ### Contributing CNN Retinopathy of Prematurity Group Members
 
-**Team Leads : [Hosia Josindra Saragih](https://github.com/hosiajosindra)
+**Team Leads : [Hosia Josindra Saragih](https://github.com/hosiajosindra).
 
 #### Other Members:
 
