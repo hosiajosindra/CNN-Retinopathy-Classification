@@ -56,4 +56,5 @@ Mrs. Devvi Sarwinda, S.Si., M.Kom.
 |---------|
 |[Angelica Patricia Djaya Saputra](https://github.com/angelpatriciads)|
 |[Annisa Zahra](https://github.com/annisazahra01)|
+|[Arundhati Naysa Ekhaputri](https://github.com/arundhatinaysa)|
 |[Latifa Aulia Esmananda](https://github.com/latifaesmananda)|
