@@ -1,6 +1,6 @@
 # CNN-Retinopathy-Classification
 <p align="justify">
- Detecting Retinopathy of Prematurity Disease in Premature Baby Based on Fundus Image Data with CNN Model using VGG19's Architecture.
+Detecting Retinopathy of Prematurity Disease in Premature Baby Based on Fundus Image Data with CNN Model using VGG19's Architecture.
 </p>
 
 #### -- Project Status: [Completed]
