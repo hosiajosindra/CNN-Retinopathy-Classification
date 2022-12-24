@@ -48,7 +48,7 @@ Mrs. Devvi Sarwinda, S.Si., M.Kom.
 
 ### Contributing CNN Retinopathy of Prematurity Group Members
 
-**Team Leads : [Hosia Josindra Saragih](https://github.com/hosiajosindra).
+**Coding Team Leads : [Hosia Josindra Saragih](https://github.com/hosiajosindra).
 
 #### Other Members:
 
